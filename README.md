@@ -1,4 +1,4 @@
 vimrc
 =====
 
-Datong's .vimrc
+Datong's .vimrc file
