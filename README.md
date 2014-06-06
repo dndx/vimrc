@@ -1,0 +1,4 @@
+vimrc
+=====
+
+Datong's .vimrc
