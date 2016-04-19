@@ -23,3 +23,5 @@ set backspace=indent,eol,start
 set nu
 setlocal spell spelllang=en_us
 syntax on 
+hi clear SpellBad
+hi SpellBad cterm=underline ctermfg=red
