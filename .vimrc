@@ -25,3 +25,5 @@ setlocal spell spelllang=en_us
 syntax on 
 hi clear SpellBad
 hi SpellBad cterm=underline ctermfg=red
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$/
