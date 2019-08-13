@@ -21,8 +21,9 @@ set ignorecase                  " searches are case insensitive...
 set smartcase                   " ... unless they contain at least one capital letter
 set backspace=indent,eol,start
 set nu
+set mouse=r
 setlocal spell spelllang=en_us
-syntax on 
+syntax on
 hi clear SpellBad
 hi SpellBad cterm=underline ctermfg=red
 highlight ExtraWhitespace ctermbg=red guibg=red
